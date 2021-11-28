@@ -1,0 +1,12 @@
+<html>
+
+
+<head>Cinfirnes Submit</head>
+
+<body>
+    
+    The Submission is confirmed: {$pa}
+
+</body>
+
+</html>

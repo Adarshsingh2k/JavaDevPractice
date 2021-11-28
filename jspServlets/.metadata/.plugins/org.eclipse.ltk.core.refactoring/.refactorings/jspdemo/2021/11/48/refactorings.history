@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;jspdemo&apos;&#x0D;&#x0A;- Original project: &apos;jspdemo&apos;&#x0D;&#x0A;- Original element: &apos;jspdemo/src/cpm.newClass.jsp&apos;" description="Delete element" element1="/src&lt;cpm.newClass.jsp" element2="/src&lt;cpm.newClass" element3="/src&lt;cpm" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1638017562436" subPackages="false" version="1.0"/>
+</session>

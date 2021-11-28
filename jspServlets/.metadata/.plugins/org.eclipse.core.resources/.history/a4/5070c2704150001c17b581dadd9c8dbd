@@ -1,0 +1,36 @@
+<html>
+
+<head>
+	<title> Test form->> To Understand working of Request and Response </title>
+</head>
+
+<body>
+	<form action="formResponse.jsp">
+		
+		First Name: <input type="text"  name="fName" />
+		
+		<br> <br>
+        
+        Last Name: <input type="text"  name="sName" />
+
+        <br> <br>
+
+        <select name="country">
+            <option value="">Brazil</option>
+            <option value="">India</option>
+            <option value="">Germany</option>
+            <option value="">France</option>
+            <option value="">Nepal</option>
+        </select>
+
+        <br><br>
+
+        <input type="submit" value="Submit">
+
+			
+	
+	</form>
+
+</body>
+
+</html>

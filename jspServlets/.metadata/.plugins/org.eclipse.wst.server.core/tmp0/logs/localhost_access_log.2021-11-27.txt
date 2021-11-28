@@ -1,0 +1,14 @@
+127.0.0.1 - - [27/Nov/2021:18:11:46 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:18:11:48 +0530] "GET /jspdemo/hello.jsp HTTP/1.1" 200 125
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:18:12:53 +0530] "GET /jspdemo/hello.jsp HTTP/1.1" 200 125
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:18:12:53 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [27/Nov/2021:18:33:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:18:33:58 +0530] "GET /jspdemo/hello.jsp HTTP/1.1" 200 167
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:18:46:36 +0530] "GET /jspdemo/builIn-Test.jsp HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:19:17:38 +0530] "GET /jspdemo/testForm.html HTTP/1.1" 200 378
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:19:17:58 +0530] "GET /jspdemo/testForm.html HTTP/1.1" 200 389
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:19:18:08 +0530] "GET /jspdemo/formResponse.jsp?fName=Adarsh&sName=Singh HTTP/1.1" 200 145
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:19:18:41 +0530] "GET /jspdemo/formResponse.jsp?fName=Adarsh&sName=Singh HTTP/1.1" 200 145
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:19:18:47 +0530] "GET /jspdemo/formResponse.jsp?fName=Adarsh&sName=Singh HTTP/1.1" 200 145
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:19:18:55 +0530] "GET /jspdemo/testForm.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:19:19:00 +0530] "GET /jspdemo/formResponse.jsp?fName=Adarsh&sName=Singh HTTP/1.1" 200 145

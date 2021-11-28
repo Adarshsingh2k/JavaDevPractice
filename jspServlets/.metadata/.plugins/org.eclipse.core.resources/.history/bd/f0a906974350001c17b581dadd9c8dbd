@@ -1,0 +1,17 @@
+<html>
+
+
+<head> <title> Submit Confirmed </title> </head>
+
+<body>
+    
+    The Submission is confirmed: ${param.fName} ${param.sName}
+    
+    <br><br>
+    The country is: ${param.country}
+    <br><br>
+    The Favorite subject is: ${param.rBut}
+
+</body>
+
+</html>

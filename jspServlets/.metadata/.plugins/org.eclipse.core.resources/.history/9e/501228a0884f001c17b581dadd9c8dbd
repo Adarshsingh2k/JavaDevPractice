@@ -1,0 +1,25 @@
+<html>
+
+<head>
+	<title> Test form->> To Understand working of Request and Response </title>
+</head>
+
+<body>
+	<form action="formResponse.jsp">
+		
+		First Name: <input type="text"  name="fName" />
+		
+		<br> <br>
+        
+        Last Name: <input type="text"  name="sName" />
+
+
+        <input type="submit" value="Submit">
+
+			
+	
+	</form>
+
+</body>
+
+</html>
