@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Personalize the Site </title>
+</head>
+
+<body>
+
+<form action="personalizeResp.jsp">
+Select your Favorite language
+<select name="favLang">
+<option>Java
+<option>C++
+<option> C
+
+</select>
+
+</form>
+
+
+</body>
+
+</html>

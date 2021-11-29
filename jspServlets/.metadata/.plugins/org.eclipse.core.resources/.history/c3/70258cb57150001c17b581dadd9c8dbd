@@ -1,0 +1,21 @@
+<html>
+<body>
+
+<!-- Step 1 Create HTML Form -->
+<form action="todo.jsp">
+	Add New Item : <input type="text" name="item">
+	
+	<input type="submit" value="Submit">
+	
+</form>
+
+<br> <br>
+Item Entered:  ${param.item}
+
+<!-- Step 2 Add New item in Todo List -->
+
+<!-- Step 3 Display all "To Do Item for Session" -->
+
+</body>
+
+</html>
